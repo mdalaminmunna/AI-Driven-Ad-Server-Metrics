@@ -1,0 +1,6 @@
+Impressions,Clicks,CTR,Conversions,Revenue,Campaign,Anomaly_Type
+5000,10,0.002,0,0,Campaign_A,"High Impressions, Low CTR"
+2000,500,0.25,50,10000,Campaign_B,"High Clicks, Moderate CTR"
+10000,5,0.0005,1,50,Campaign_C,"High Impressions, Very Low CTR"
+4000,400,0.1,30,5000,Campaign_B,Moderate Metrics
+15000,1,0.0001,0,0,Campaign_A,"High Impressions, No Revenue"
